@@ -1,2 +1,2 @@
 # postgres
-Local Postgres Database running in Docker Container.
+Local Postgres Database running in a Docker Container.
